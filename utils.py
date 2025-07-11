@@ -1,6 +1,6 @@
 //Requisitos para executar seu código:
 //Tenha o Python instalado (versão 3.x recomendada).
-//Você pode verificar com: python --version
+//Você pode verificar com: python --version 
 
 import csv
 import random

@@ -1,4 +1,4 @@
-//para rodar os geradores sera necessario instalar o PIP via cmd
+//para rodar os geradores sera necessario instalar o PIP via cmd 
 
 import utils
 from datetime import datetime
