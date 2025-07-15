@@ -1,1 +1,5 @@
 Criei um gerador de arquivo CSV com dados fictícios e aleatórios com o objetivo de testar o sistema de negociação de dívidas da empresa SPC. O sistema realizava a inclusão de registros por meio de uma carga customizada via arquivo CSV, e, para garantir a eficácia dos testes, foi necessário simular cenários reais com dados variados. A ferramenta desenvolvida permitiu automatizar esse processo, agilizando os testes e garantindo a consistência das informações carregadas.
+
+
+
+sla
